@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AristoteKABELU&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AristoteKABELU&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AristoteKABELU&count_private=true)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=AristoteKABELU&show_icons=true)
+
 
 <Hr>
 <div style="display:flex; text-align:center;" >
